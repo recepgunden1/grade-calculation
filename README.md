@@ -1,3 +1,2 @@
-# ÖĞRENCİ NOTU HESAPLAMA PROGRAMI
-
- - Bu Python kodu, bir dosyadan ogrenci bilgilerini okuyarak notlari hesaplar ve ardindan bu notlari harf notlarina donusturerek baska bir dosyaya yazar.
+# GRADE CALCULATION
+ - This Python code calculates grades by reading student information from a file, then converts those grades into letter grades and writes them to another file.
